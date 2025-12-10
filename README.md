@@ -36,5 +36,5 @@ The project is divided into two tasks:
 
 ## Repository Structure
 *   `AmazonMarketBasket.ipynb`: The complete executable Jupyter Notebook containing Data Loading, Preprocessing, Task A (SON), and Task B (Multistage).
-*   `AMD_MarketBasketAnalysis.pdf`: The official project report detailing the methodology, mathematical foundations, and experimental results.
+*   `AMD_MarketBasketAnalysis.pdf`: The official project report detailing the methodology and experimental results.
 
