@@ -28,7 +28,7 @@ The project is divided into two tasks:
 
 ## Technologies & Scalability
 *   **Language:** Python 3
-*   **Framework:** **Apache Spark (PySpark)**
+*   **Framework:** Apache Spark (PySpark)
 *   **Environment:** Google Colab
 *   **Scalability:** The solution uses RDDs (Resilient Distributed Datasets) and persistence strategies (`MEMORY_AND_DISK`) to ensure the algorithms scale horizontally to the full dataset, despite hardware limitations.
 
